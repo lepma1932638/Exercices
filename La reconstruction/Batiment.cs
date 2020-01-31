@@ -63,7 +63,7 @@ namespace La_reconstruction
         {
             int surface = 0;
 
-            surface = largeur * longueur;
+            surface = largeur * longueur; // Ca calcule l'aire
 
             return surface;
         }
